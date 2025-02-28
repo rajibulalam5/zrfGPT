@@ -22,7 +22,7 @@ zrfGPT is written in Python and uses the OpenAI API to have conversations with t
 Thank you!
 
 ---
-# GPT Discord Bot
+# zrfGPT Discord Bot
 
 Example Discord bot written in Python that uses the [chat completions API](https://platform.openai.com/docs/api-reference/chat/create) to have conversations with the `gpt-3.5-turbo` model, and the [moderations API](https://beta.openai.com/docs/api-reference/moderations) to filter the messages.
 
