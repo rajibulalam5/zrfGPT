@@ -1,7 +1,7 @@
 # zrfGPT
 Example Discord bot written in Python that uses the OpenAI API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.
 
-
+![Image](https://github.com/user-attachments/assets/52aa2cc4-bae9-416a-b8c1-def20d61af9a)
 
 
 # Please read!
