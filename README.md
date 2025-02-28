@@ -1,6 +1,8 @@
 # zrfGPT
 Example Discord bot written in Python that uses the OpenAI API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.
 
+
+
 ![Image](https://github.com/user-attachments/assets/52aa2cc4-bae9-416a-b8c1-def20d61af9a)
 
 
@@ -36,11 +38,6 @@ This bot uses the [OpenAI Python Library](https://github.com/openai/openai-pytho
 - you can customize the bot instructions by modifying `config.yaml`
 - you can change the model, the default value is `gpt-3.5-turbo`
 
-# Optional configuration
-
-1. If you want moderation messages, create and copy the channel id for each server that you want the moderation messages to send to in `SERVER_TO_MODERATION_CHANNEL`. This should be of the format: `server_id:channel_id,server_id_2:channel_id_2`
-1. If you want to change the personality of the bot, go to `src/config.yaml` and edit the instructions
-1. If you want to change the moderation settings for which messages get flagged or blocked, edit the values in `src/constants.py`. A higher value means less chance of it triggering, with 1.0 being no moderation at all for that category.
 
 # FAQ
 
