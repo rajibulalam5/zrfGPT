@@ -2,13 +2,7 @@
 Example Discord bot written in Python that uses the OpenAI API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.
 
 
-<h1 align="center">
-  <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/a/qbHHyvO.png" alt="zrfGPT - Discord Bot"></a>
-  <br>
-  Red Discord Bot
-  <br>
-</h1>
+
 
 # Please read!
 
